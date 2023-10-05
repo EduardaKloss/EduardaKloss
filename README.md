@@ -24,12 +24,8 @@ object **EDUARDA** {
 
 ## Status
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/EduardaKloss">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardakloss&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardakloss&show_icons=true&theme=dracula&line_height=27" alt="**Eduarda** github stats"/>
 </a>
 
 [LinkedIn]: www.linkedin.com/in/eduarda-kloss-a15799276
